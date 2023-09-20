@@ -12,7 +12,7 @@ This is a project I did during the sophomre year
 
 ## Decription
 
-*This is a project calculating manufacting costs of each jobs, Since there is a significant variation in the items manufactured, the job order costing system requires a separate job cost record for each item (or each job or special order). The job cost record will report each item's direct materials and direct labor that were actually used and an assigned amount of manufacturing overhead.*
+*This is a project calculating manufacting costs of each jobs, since there is a significant variation in the items manufactured, the job order costing system requires a separate job cost record for each item. The job cost record will report each item's direct materials and direct labor that were actually used and an assigned amount of manufacturing overhead.*
 
 ## What program was used
 
