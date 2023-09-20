@@ -1,10 +1,10 @@
 This is a project I did during the Junior year
 ## Section
 
--[Project Title](#Project-Title)
--[Desciption](#Description)
--[What program was used](#What-program-was-used)
--[Files used](#Files-used)
+- [Project Title](#Project-Title)
+- [Desciption](#Description)
+- [What program was used](#What-program-was-used)
+- [Files used](#Files-used)
 
 ## Project title
 
