@@ -1,5 +1,5 @@
-This is a project I did during the sophomre year
-##Table of Contents
+This is a project I did during the Junior year
+## Section
 
 -[Project Title](#Project-Title)
 -[Desciption](#Description)
